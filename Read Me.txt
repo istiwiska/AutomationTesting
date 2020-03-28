@@ -1,0 +1,16 @@
+Nama : Isti Wiska
+
+URL Web : https://opensource-demo.orangehrmlive.com/index.php/auth/login ( OrangeHRM )
+
+Saya melakukan automation test pada website OrangeHRM dan Saya membuat TC, Skenario berdasarkan fitur-fitur yang terdapat pada website OrangeHRM.
+Terdapat 2 skenario yang terdiri atas 7 Testcase ( dapat di lihat di file TC dan Skenario.xlsx), 3 testcase negative dan 4 testcase positif.
+Salah satu fitur yang saya uji diantaranya proses users management berupa proses verifikasi data users admin, menampilkan data user berdasarkan
+parameter yang diisi, penambahan User baru, dan penambahan User baru dengan mengosongkan field mendatory. kemudian proses recruitment candidates berupa
+penambahan recruitment candidates dan penambahan recruitment candidates mengosongkan field mendatory dan upload field extension excel.
+
+Saya menggunakan tools katalon untuk automation testingnya. Dan saya juga melampirkan folder attchment dimana itu merupakan dokumentasi
+testing yang saya lakukan dan generate by sistem ( dapat dilihat di folder Attachment Testing ), penamaan sub folder attachment testing nya berdasarkan
+testcase name sehingga terdapat 7 sub folder pada folder Attachment Testing. Dan saya juga melampirkan laporan testing berupa total Pass/Fail TC 
+( Laporan Hasil Testing Pada TC dan Skenario.png )
+
+Terima Kasihhh
